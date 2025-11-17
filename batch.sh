@@ -59,6 +59,7 @@ languages=(
     'sql'
     'surface'
     'svelte'
+    'systemverilog'
     'toml'
     'tsx'
     'typescript'

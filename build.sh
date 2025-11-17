@@ -147,6 +147,9 @@ case "${lang}" in
     "svelte")
         org="Himujjal"
         ;;
+    "systemverilog")
+        org="gmlarumbe"
+        ;;
     "toml")
         org="tree-sitter-grammars"
         ;;
